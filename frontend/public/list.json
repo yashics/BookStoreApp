@@ -1,0 +1,94 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":" It typically features characters, settings, fun and plots designed to entertain, or spark imagination.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"Sports Book",
+        "title":" It can also refer to a sports betting book, where people place wagers on sporting events.",
+        "price":80,
+        "category":"Games",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"Drawing Book",
+        "title":"Drawing books are used for both casual sketching ,students and professional artwork ",
+        "price":60,
+        "category":"fun",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+    {
+        "id":4,
+        "name":"Sanskrit Book",
+        "title":"Sanskrit texts include a wide range of genres, such as religious scriptures , vedas , epic literature .",
+        "price":70,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+    {
+        "id":5,
+        "name":"Music Book",
+        "title":"Music books can serve as educational resources or references for musicians and music enthusiasts.",
+        "price":50,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+    {
+        "id":6,
+        "name":"English Book",
+        "title":"This can include a wide variety of genres such as fiction, non-fiction, poetry, drama, and academic texts",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+    {
+        "id":7,
+        "name":"Aptitude Book",
+        "title":"Aptitude books usually include practice questions,  and strategies to improve performance in these areas.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+    {
+        "id":8,
+        "name":"Suspense Story",
+        "title":" A suspense book is a genre of fiction that keeps readers on edge with intense anticipation, uncertainty,",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+    {
+        "id":9,
+        "name":"Biograpghy Book",
+        "title":"A biography book is a detailed account of a person's life, written by someone else,impact on the world.",
+        "price":50,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    },
+
+
+    {
+        "id":10,
+        "name":"Food Book",
+        "title":"A food book is a publication dedicated to recipes, culinary techniques, food culture, or the personal experiences .",
+        "price":250,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725979705~exp=1725983305~hmac=6d3d8023b558684261378727a8cb5ce2eb81a2454a9c066e13e51490d3aa108c&w=740"
+    }
+
+
+]
