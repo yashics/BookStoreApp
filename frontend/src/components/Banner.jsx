@@ -4,10 +4,10 @@ import banner from "../../public/Banner.jpg"
 function Banner  ()  {
   return (
     <>
-    <div className='max-w-screen-2x1 container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10'>
+    <div className='max-w-screen-2x1 container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10  '>
         <div className='order-2 md:order-1 w-full md:w-1/2 mt-12 md:mt-32'>
        <div className='space-y-12'>
-       <h1 className="text-4xl font-bold"> 
+       <h1 className="text-4xl font-bold font-Roboto"> 
             Hello , welcome here to learn something <span className='text-pink-500'>new everyday !!!</span></h1>
             <p className='text-xl '>
             Bookstores often serve as community hubs, hosting author readings, discussions, and providing a space for literary exploration. 
@@ -27,11 +27,11 @@ function Banner  ()  {
   <input type="text" className="grow" placeholder="Email" />
 </label>
        </div>
-       <button className="btn btn-secondary mt-8">Secondary</button>
+       <button className="btn btn-secondary mt-8">Get Started </button>
       
         </div>
-        <div className='order-1 w-full md:w-1/2 '>
-        <img src={banner} alt="" className='w-92 h-92' /></div>
+        <div className='order-1 w-full md:w-1/2 px-12 pt-10'>
+        <img src={banner} alt="" className='w-85 h-85 pt-5' /></div>
     </div>
     </>
   );
