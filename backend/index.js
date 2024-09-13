@@ -16,11 +16,7 @@ dotenv.config();
 const PORT=process.env.PORT || 4000;
 const url=process.env.MONGO_URI;
 try {
-  mongoose.connect(url,{
-    useNewUrlParser :true,
-    useUnifiedTopology:true
-
-  });
+  mongoose.connect(url);
   console.log("connect to mongodb")
 } catch (error) {
   console.log("error:",error)
